@@ -1,0 +1,7 @@
+{
+    "auto_claim": false,
+    "auto_task": false,
+    "auto_game": false,
+    "low": "240",
+    "high": "800"
+}
